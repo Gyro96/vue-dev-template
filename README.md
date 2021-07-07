@@ -2,6 +2,14 @@
 
 # 主要实现如下功能的配置
 
+## 引入 composition-api
+
+- [组合式 API 文档](https://github.com/vuejs/composition-api/blob/master/README.zh-CN.md)
+
+## 添加 element-ui
+
+- 增加按需导入
+
 ## 登录权限
 
 - 验证是否登录
@@ -39,4 +47,3 @@
 ## Vue-router、Vuex 的规范化和习惯配置
 
 - 具体规范见各自文件夹下的配置说明
-
